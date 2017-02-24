@@ -6,6 +6,5 @@ Get forex exchange rates in a nice tabulated form.
 Installation:
 - git clone https://github.com/kamikazechaser/equity-forex.git
 - pip install -r requirements.txt
-- export to path depending on OS
 
 Released under AGPL-3.0
