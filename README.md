@@ -2,7 +2,7 @@
 
 Get forex exchange rates in a nice tabulated form.
 
-<img src=http://i.imgur.com/d3Lp5DWg.png>
+<img src=http://i.imgur.com/93Yp8OR.png>
 
 Installation:
 
